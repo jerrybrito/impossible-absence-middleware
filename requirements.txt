@@ -1,0 +1,2 @@
+# Requires: phantom-waiting
+# (Not available on PyPI)
